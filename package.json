@@ -1,0 +1,11 @@
+{
+  "name": "Scraping Test",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.8.4",
+    "electron-prebuilt": "*",
+    "electron-reload": "^1.2.2",
+    "request-promise": "^4.2.2"
+  }
+}
