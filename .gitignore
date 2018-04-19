@@ -134,6 +134,12 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+#lock
+package-lock.json
+
+#IDE
+.idea/
+
 # pyenv
 .python-version
 
